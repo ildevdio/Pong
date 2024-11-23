@@ -223,7 +223,7 @@ var Game = {
         // setar o fillStyle pra o preto
         this.context.fillStyle = this.color;
  
-        // Draw the background
+        // Desenhar o fundo
         this.context.fillRect(
             0,
             0,
